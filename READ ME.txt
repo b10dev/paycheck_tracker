@@ -1,0 +1,91 @@
+
+Date: 06/28/29
+Author: Jay MacKilcline
+Associated Files: paycheckClass.py
+ 
+_________________Paycheck Tracker____________v 2.0
+ 
+ _________________________________________________
+|   (\(\                                                                                         |
+|  =(^.^)=                                                              Date______   |
+|  (")_(")                                                                                      |   
+|                                                                           $_________  |  
+|        ____________________________________Dollars     |
+|                                                                                                  | 
+| Memo:__________                               Sign:____________   |  
+| |:000000000        |:00000000                            |:0000           |
+|_________________________________________________|
+
+---------------------Use----------------------
+
+The purpose of the paycheck tracker is to:
+1.  Input a new instance of the class "Paycheck"
+2.  Store the instance of the class in a mysql DB
+	my sql:
+	username: b10
+	password: li27co07
+3.  View the contents of the DB via Python.
+
+--------------------Notes----------------------
+
+Some commands and comments have been edited out.
+The majority of the edited commands are for development
+and should be left in the files.  Any line that has been 
+commented out, has an accompanying comment to explain
+the nature of its intended use.
+
+With the exception of one line, PEP8 Standards apply.  The
+afore mentioned line is in paycheckClass.   It is the end of the
+try, except block.  Spacifically, it is the broad except block.
+That should be fixed in v 3.0
+
+Much of the notation is in the code, especially anything that 
+did not explain itsself very well.
+
+---------------------SQL----------------------
+
+The bulk of the commands that we needed for this program:
+1. View all from DB
+2. ADV of all
+3. Sum of all
+4. View by month
+5. ADV by month
+6. Sum by month
+7. Export DB to csv.
+	(coming in v 3.0)
+	
+---------------------3.0 updates---------------
+
+Check if DB exists
+Create db if non exists
+export db
+improve ui and error handling
+kivy interface
+installer for sharing program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+			
+	
