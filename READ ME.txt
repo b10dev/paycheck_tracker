@@ -53,7 +53,16 @@ The bulk of the commands that we needed for this program:
 	
 ---------------------3.0 updates---------------
 
+Version 3 update has come with alot of changes, and the introduction 
+of a few new files, classes and the ability to export the database to a
+csv file.
 
+The most noteable change is the switch from the mysql database format
+to the sqlite db format.  That change was made for simplicity and 
+versitility.
+
+version 4 updates should be comming soon, version 4 should include
+a new graphical user interface in kivy and possibly others.  
 
 
 
