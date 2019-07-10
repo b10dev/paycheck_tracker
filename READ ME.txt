@@ -20,10 +20,7 @@ _________________Paycheck Tracker____________v 2.0
 
 The purpose of the paycheck tracker is to:
 1.  Input a new instance of the class "Paycheck"
-2.  Store the instance of the class in a mysql DB
-	my sql:
-	username: b10
-	password: li27co07
+2.  Store the instance of the class in an sql DB
 3.  View the contents of the DB via Python.
 
 --------------------Notes----------------------
@@ -55,13 +52,6 @@ The bulk of the commands that we needed for this program:
 	(coming in v 3.0)
 	
 ---------------------3.0 updates---------------
-
-Check if DB exists
-Create db if non exists
-export db
-improve ui and error handling
-kivy interface
-installer for sharing program
 
 
 
